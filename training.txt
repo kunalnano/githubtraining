@@ -4,3 +4,4 @@ Add changes and then to commit them by staging.
 We also learned to work with branches in Git!
 I will need to practise working in branches and pushing my codes to the repository.
 But it was a great start today! see you soon!
+I just pushed this file to my remote repo and it worked great! Woohoo!
